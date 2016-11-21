@@ -8,10 +8,15 @@ For Italians abroad, mostly geeks who know that U.S. and UK keyboards are good f
 The changes from the standard layouts only affect accented letters:
 
 `alt + a` = à
+
 `alt + e` = è
+
 `alt + shift + e` = é
+
 `alt + i` = ì
+
 `alt + o` = ò
+
 `alt + u` = ù
 
 ## Install
