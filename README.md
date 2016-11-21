@@ -1,7 +1,7 @@
 Italians Abroad - OSX Keyboard Layout
 =====================================
 
-For Italians abroad, mostly geeks who know that U.S. and UK keyboards are good for programming, but who also don't want to loose faith trying to quickly write a note in Italian using accented letters.
+For Italians abroad, mostly geeks who know that English keyboards are good for programming, but who also don't want to loose faith trying to quickly write a note in Italian using accented letters.
 
 ## Keys
 
