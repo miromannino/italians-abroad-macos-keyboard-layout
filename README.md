@@ -1,7 +1,7 @@
-Italians Abroad - OSX Keyboard Layout
+Italians Abroad - MacOS Keyboard Layout
 =====================================
 
-For Italians abroad, mostly geeks who know that English keyboards are good for programming, but who also don't want to loose faith trying to quickly write a note in Italian using accented letters.
+Do you use a English keyboard but you want to write in Italian? Here is a custom keyboard for easily writing accented letters.
 
 ## Keys
 
@@ -24,5 +24,5 @@ The changes from the standard layouts only affect accented letters:
 Copy `Italians Abroad - British.keylayout` and `Italians Abroad - US.keylayout` to your `~/Library/Keyboard Layouts` folder.
 Log out, restart, and then active one of them from `System Preferences → Keyboard → Input Sources`. These layouts can be find in the `Others` section.
 
-![screenshot](https://raw.githubusercontent.com/miromannino/italians-abroad-osx-keyboard-layout/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/miromannino/italians-abroad-macos-keyboard-layout/master/screenshot.png)
 
